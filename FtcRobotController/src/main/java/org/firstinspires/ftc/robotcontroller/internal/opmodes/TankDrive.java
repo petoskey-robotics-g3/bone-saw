@@ -17,14 +17,12 @@ public class TankDrive extends OpMode {
         leftDrive = hardwareMap.dcMotor.get("left_drive");
         rightDrive = hardwareMap.dcMotor.get("right_drive");
 
-        leftDrive.setDirection(DcMotor.Direction.REVERSE);
+        rightDrive.setDirection(DcMotor.Direction.REVERSE);
     }
 
-    @Override
     public void loop() {
-        //re-flip these values?
-        float leftY = gamepad1.left_stick_y;
-        float rightY = gamepad1.right_stick_y;
+        float leftY = -gamepad1.left_stick_y;
+        float rightY = -gamepad1.right_stick_y;
 
         leftDrive.setPower(leftY);
         rightDrive.setPower(rightY);

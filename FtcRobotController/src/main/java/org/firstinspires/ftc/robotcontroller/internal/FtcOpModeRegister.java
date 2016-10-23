@@ -36,6 +36,7 @@ import com.qualcomm.robotcore.eventloop.opmode.OpModeManager;
 import com.qualcomm.robotcore.eventloop.opmode.OpModeRegister;
 import com.qualcomm.robotcore.eventloop.opmode.AnnotatedOpModeRegistrar;
 import org.firstinspires.ftc.robotcontroller.external.samples.ConceptNullOp;
+import org.firstinspires.ftc.robotcontroller.internal.opmodes.RcDrive;
 import org.firstinspires.ftc.robotcontroller.internal.opmodes.TankDrive;
 
 /**
@@ -79,5 +80,6 @@ public class FtcOpModeRegister implements OpModeRegister {
          * Any manual OpMode class registrations should go here.
          */
         manager.register("Tank Drive", TankDrive.class);
+        manager.register("Rc Drive", RcDrive.class);
     }
 }
