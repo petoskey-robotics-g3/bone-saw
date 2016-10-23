@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="e9978466-138f-476b-9f47-40736b4032bf" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/google/blocks/R$array.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/com/google/blocks/R$color.class" afterPath="" />
@@ -152,11 +153,17 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/inspection/R$string.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/inspection/R$style.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/inspection/R.class" afterPath="" />
+=======
+    <list default="true" id="0860e44c-7e65-4c0f-afa4-91303f61259f" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/debug/org/firstinspires/ftc/robotcontroller/internal/opmodes/TankDrive.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/org/firstinspires/ftc/robotcontroller/internal/opmodes/TankDrive$override.class" afterPath="" />
+>>>>>>> 1bbf8bef0b8ccd32effb29f414fd98e08ce18404
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
+<<<<<<< HEAD
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_FtcRobotController_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_FtcRobotController_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
@@ -409,6 +416,64 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/release/xml/pushbotsens.xml" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/release/xml/pushbotsens.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/release/xml/squarebot.xml" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/release/xml/squarebot.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/TeamCode.iml" afterPath="$PROJECT_DIR$/TeamCode/TeamCode.iml" />
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_FtcRobotController_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_FtcRobotController_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_FtcRobotController_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_FtcRobotController_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_FtcRobotController_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_FtcRobotController_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_FtcRobotController_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_FtcRobotController_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_TeamCode_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_TeamCode_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_TeamCode_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_TeamCode_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_TeamCode_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_TeamCode_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/release/classes.jar" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/bundles/release/classes.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/internal/FtcOpModeRegister.class" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/internal/FtcOpModeRegister.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/internal/opmodes/RcDrive.class" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/internal/opmodes/RcDrive.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/internal/opmodes/TankDrive.class" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/classes/release/org/firstinspires/ftc/robotcontroller/internal/opmodes/TankDrive.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FtcRobotController/build/outputs/aar/FtcRobotController-release.aar" afterPath="$PROJECT_DIR$/FtcRobotController/build/outputs/aar/FtcRobotController-release.aar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/exploded-aar/bone-saw/FtcRobotController/unspecified/jars/classes.jar" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/exploded-aar/bone-saw/FtcRobotController/unspecified/jars/classes.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/incremental-verifier/debug/org/firstinspires/ftc/robotcontroller/internal/FtcOpModeRegister.class" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/incremental-verifier/debug/org/firstinspires/ftc/robotcontroller/internal/FtcOpModeRegister.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/incremental-verifier/debug/org/firstinspires/ftc/robotcontroller/internal/opmodes/RcDrive.class" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/incremental-verifier/debug/org/firstinspires/ftc/robotcontroller/internal/opmodes/RcDrive.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/incremental-verifier/debug/org/firstinspires/ftc/robotcontroller/internal/opmodes/TankDrive.class" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/incremental-verifier/debug/org/firstinspires/ftc/robotcontroller/internal/opmodes/TankDrive.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/pre-dexed/debug/Vuforia_ef1cae0412e1248fb01929b9c6b60e6ddb71127f.jar" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/pre-dexed/debug/Vuforia_ef1cae0412e1248fb01929b9c6b60e6ddb71127f.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/pre-dexed/debug/d2xx_779fe9545d4f5226d428cf372ca88702e1112cb5.jar" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/pre-dexed/debug/d2xx_779fe9545d4f5226d428cf372ca88702e1112cb5.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/pre-dexed/debug/gson-2.7_ee05ca197031a4bd81caba2f11cbb9dd83664b97.jar" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/pre-dexed/debug/gson-2.7_ee05ca197031a4bd81caba2f11cbb9dd83664b97.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/pre-dexed/debug/instant-run-bootstrap_02045544ee67cc72f0f045d6cfbb22adecb6362a.jar" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/pre-dexed/debug/instant-run-bootstrap_02045544ee67cc72f0f045d6cfbb22adecb6362a.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/pre-dexed/debug/instant-run_f85017e99c03983bcf93100917c43321e86a343c.jar" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/pre-dexed/debug/instant-run_f85017e99c03983bcf93100917c43321e86a343c.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-Analytics-release_e617fcc6023f428cd4ec3938ce045c930c73c65b.jar" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-Analytics-release_e617fcc6023f428cd4ec3938ce045c930c73c65b.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-Blocks-release_0caa1aade15e3722f6a693fec4d322964d080330.jar" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-Blocks-release_0caa1aade15e3722f6a693fec4d322964d080330.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-FtcCommon-release_2ddfa5aa1751aa85bba04dcde1bd621c834af033.jar" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-FtcCommon-release_2ddfa5aa1751aa85bba04dcde1bd621c834af033.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-Hardware-release_7b0bd8dbeaead46193752bcee046b4d894de23ba.jar" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-Hardware-release_7b0bd8dbeaead46193752bcee046b4d894de23ba.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-Inspection-release_b741bb9282fa69ef2aaa2de6562bf2fdaad5fd7b.jar" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-Inspection-release_b741bb9282fa69ef2aaa2de6562bf2fdaad5fd7b.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-ModernRobotics-release_c7903f66aae217fc700b7c71270e2942d8149a1f.jar" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-ModernRobotics-release_c7903f66aae217fc700b7c71270e2942d8149a1f.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-RobotCore-release_fd370123982eeaea6c67f1c04cbd9061e5052287.jar" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-RobotCore-release_fd370123982eeaea6c67f1c04cbd9061e5052287.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-WirelessP2p-release_8fff03f72bf8ca5656c16be910a37e4b9bbe713f.jar" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-WirelessP2p-release_8fff03f72bf8ca5656c16be910a37e4b9bbe713f.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/pre-dexed/debug/main_7d68a7ab0903238e8acc8c3393f979d0a55526b6.jar" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/pre-dexed/debug/main_7d68a7ab0903238e8acc8c3393f979d0a55526b6.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_b867cd8c1bad18b9b2fe3163e1826d840e85b864.jar" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_b867cd8c1bad18b9b2fe3163e1826d840e85b864.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/res/resources-debug-androidTest.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/res/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-430531977/org/firstinspires/ftc/robotcontroller/internal/FtcOpModeRegister.class" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-430531977/org/firstinspires/ftc/robotcontroller/internal/FtcOpModeRegister.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-430531977/org/firstinspires/ftc/robotcontroller/internal/opmodes/RcDrive.class" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-430531977/org/firstinspires/ftc/robotcontroller/internal/opmodes/RcDrive.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-430531977/org/firstinspires/ftc/robotcontroller/internal/opmodes/TankDrive.class" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/extractJars/debug/folders/1/4/classes.jar-430531977/org/firstinspires/ftc/robotcontroller/internal/opmodes/TankDrive.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/firstinspires/ftc/robotcontroller/internal/FtcOpModeRegister.class" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/firstinspires/ftc/robotcontroller/internal/FtcOpModeRegister.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/firstinspires/ftc/robotcontroller/internal/opmodes/RcDrive.class" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/firstinspires/ftc/robotcontroller/internal/opmodes/RcDrive.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/firstinspires/ftc/robotcontroller/internal/opmodes/TankDrive.class" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/firstinspires/ftc/robotcontroller/internal/opmodes/TankDrive.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/outputs/apk/TeamCode-debug-unaligned.apk" afterPath="$PROJECT_DIR$/TeamCode/build/outputs/apk/TeamCode-debug-unaligned.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/outputs/apk/TeamCode-debug.apk" afterPath="$PROJECT_DIR$/TeamCode/build/outputs/apk/TeamCode-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/tmp/expandedArchives/classes.jar_4syih0uiov7vr216byu7lmvak/org/firstinspires/ftc/robotcontroller/internal/FtcOpModeRegister.class" afterPath="$PROJECT_DIR$/TeamCode/build/tmp/expandedArchives/classes.jar_4syih0uiov7vr216byu7lmvak/org/firstinspires/ftc/robotcontroller/internal/FtcOpModeRegister.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/tmp/expandedArchives/classes.jar_4syih0uiov7vr216byu7lmvak/org/firstinspires/ftc/robotcontroller/internal/opmodes/RcDrive.class" afterPath="$PROJECT_DIR$/TeamCode/build/tmp/expandedArchives/classes.jar_4syih0uiov7vr216byu7lmvak/org/firstinspires/ftc/robotcontroller/internal/opmodes/RcDrive.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/tmp/expandedArchives/classes.jar_4syih0uiov7vr216byu7lmvak/org/firstinspires/ftc/robotcontroller/internal/opmodes/TankDrive.class" afterPath="$PROJECT_DIR$/TeamCode/build/tmp/expandedArchives/classes.jar_4syih0uiov7vr216byu7lmvak/org/firstinspires/ftc/robotcontroller/internal/opmodes/TankDrive.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FtcRobotController/FtcRobotController.iml" afterPath="$PROJECT_DIR$/FtcRobotController/FtcRobotController.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/FtcOpModeRegister.java" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/FtcOpModeRegister.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/opmodes/RcDrive.java" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/opmodes/RcDrive.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/opmodes/TankDrive.java" afterPath="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/opmodes/TankDrive.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/instant-run-support/debug/reload-changes.txt" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/instant-run-support/debug/reload-changes.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/restart-dex/debug/build-info.xml" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/restart-dex/debug/build-info.xml" />
+>>>>>>> 1bbf8bef0b8ccd32effb29f414fd98e08ce18404
     </list>
     <ignored path="bone-saw.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -429,17 +494,52 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file leaf-file-name="RcDrive.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/opmodes/RcDrive.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.8172043">
               <caret line="38" column="40" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
+=======
+      <file leaf-file-name="TankDrive.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/opmodes/TankDrive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FtcOpModeRegister.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/FtcOpModeRegister.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="82" column="45" selection-start-line="82" selection-start-column="45" selection-end-line="82" selection-end-column="45" />
+>>>>>>> 1bbf8bef0b8ccd32effb29f414fd98e08ce18404
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="RcDrive.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/opmodes/RcDrive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.9166667">
+              <caret line="63" column="18" selection-start-line="63" selection-start-column="18" selection-end-line="63" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -2901,6 +3001,18 @@
       <projects_view />
     </option>
   </component>
+<<<<<<< HEAD
+=======
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/opmodes/TankDrive.java" />
+        <option value="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/FtcOpModeRegister.java" />
+        <option value="$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/opmodes/RcDrive.java" />
+      </list>
+    </option>
+  </component>
+>>>>>>> 1bbf8bef0b8ccd32effb29f414fd98e08ce18404
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
@@ -2932,6 +3044,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -2940,18 +3054,39 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+<<<<<<< HEAD
         </subPane>
       </pane>
       <pane id="ProjectPane" />
       <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="Scope" />
+=======
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bone-saw" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FtcRobotController" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+>>>>>>> 1bbf8bef0b8ccd32effb29f414fd98e08ce18404
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+<<<<<<< HEAD
+=======
+    <property name="device.picker.selection" value="3a28600" />
+>>>>>>> 1bbf8bef0b8ccd32effb29f414fd98e08ce18404
   </component>
   <component name="RunManager" selected="Android Application.TeamCode">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -3217,6 +3352,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="e9978466-138f-476b-9f47-40736b4032bf" name="Default" comment="" />
@@ -3227,6 +3365,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
@@ -3237,17 +3376,33 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+=======
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298887" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298887" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290938" sideWeight="0.49840257" order="7" side_tool="false" content_ui="tabs" />
+>>>>>>> 1bbf8bef0b8ccd32effb29f414fd98e08ce18404
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298887" sideWeight="0.50159746" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25416037" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26430842" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> 1bbf8bef0b8ccd32effb29f414fd98e08ce18404
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298887" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -3258,6 +3413,14 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -3270,12 +3433,129 @@
     <entry file="file://$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/opmodes/RcDrive.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/FtcOpModeRegister.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="82" column="45" selection-start-line="82" selection-start-column="45" selection-end-line="82" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/opmodes/RcDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/opmodes/TankDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/FtcOpModeRegister.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="82" column="45" selection-start-line="82" selection-start-column="45" selection-end-line="82" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/opmodes/RcDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/opmodes/TankDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/FtcOpModeRegister.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="82" column="37" selection-start-line="82" selection-start-column="37" selection-end-line="82" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/opmodes/RcDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/opmodes/TankDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/opmodes/RcDrive.java">
+<<<<<<< HEAD
+=======
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/opmodes/RcDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/opmodes/TankDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/FtcOpModeRegister.java">
+>>>>>>> 1bbf8bef0b8ccd32effb29f414fd98e08ce18404
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8172043">
           <caret line="38" column="40" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
@@ -3283,5 +3563,36 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/opmodes/TankDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/FtcOpModeRegister.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="82" column="45" selection-start-line="82" selection-start-column="45" selection-end-line="82" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/internal/opmodes/RcDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9166667">
+          <caret line="63" column="18" selection-start-line="63" selection-start-column="18" selection-end-line="63" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 1bbf8bef0b8ccd32effb29f414fd98e08ce18404
   </component>
 </project>
