@@ -2,17 +2,7 @@ package org.firstinspires.ftc.robotcontroller.internal.opmodes;
 
 import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 import com.qualcomm.robotcore.hardware.DcMotor;
-<<<<<<< HEAD
 
-/**
- * Created by Administrator on 9/29/2016.
-=======
-import com.qualcomm.robotcore.hardware.DcMotorSimple;
-
-/**
- * Created by Administrator on 10/2/2016.
->>>>>>> 1bbf8bef0b8ccd32effb29f414fd98e08ce18404
- */
 public class RcDrive extends OpMode {
 
     DcMotor leftDrive;
@@ -65,4 +55,5 @@ public class RcDrive extends OpMode {
         telemetry.addData("right power", rightPower);
     }
 }
+
 //will was here
